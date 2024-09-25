@@ -103,7 +103,8 @@ Testing the webserver.
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/627efc49-aac1-40bb-ac8a-f7624172ff29)
+![image](https://github.com/user-attachments/assets/7eedf1aa-be85-48f2-9cdf-c324dc7e20f6)
+
 
 
 ## RESULT:
